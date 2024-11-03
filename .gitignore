@@ -1,5 +1,8 @@
 client/*.json
-client/robot.txt
+client/public/*.txt
+client/public/*.json
+client/public/*.png
+client/public/*.ico
 
 server/*.json
-server/*.env
+server/config/.env
