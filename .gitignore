@@ -1,0 +1,5 @@
+client/*.json
+client/robot.txt
+
+server/*.json
+server/*.env
